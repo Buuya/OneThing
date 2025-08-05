@@ -5,7 +5,7 @@
 ![Screenshot](assets/homepage.jpg)
 
 ## 🔗 Live Demo
-[👉 View It on GitHub Pages](https://buuya.github.io/OneThing/)
+<a href="https://buuya.github.io/OneThing/" target="_blank" rel="noopener noreferrer">👉 View It on GitHub Pages</a>
 
 ---
 
@@ -46,7 +46,7 @@ OneThing/
 ## 🚀 Getting Started
 
 ### ✅ Use Online
-Just open: [https://buuya.github.io/OneThing](https://buuya.github.io/OneThing/)
+Just open: <a href="https://buuya.github.io/OneThing" target="_blank" rel="noopener noreferrer">https://buuya.github.io/OneThing</a>
 
 ### 🧪 Run Locally
 
@@ -89,13 +89,15 @@ We expect all contributors to maintain a respectful, inclusive, and welcoming en
 ## 🙌 Credits
 
 Made with ❤️ by **Ayub Farxaan**  
-[🌐 My Portfolio](https://buuya.github.io.com)
-[📸 Instagram](https://instagram.com/cptbuuya)
-[💼 Linkedin](https://linkedin.com/in/ayub-mox/)
+<a href="https://buuya.github.io" target="_blank" rel="noopener noreferrer">🌐 My Portfolio</a>  
+<a href="https://instagram.com/cptbuuya" target="_blank" rel="noopener noreferrer">📸 Instagram</a>  
+<a href="https://linkedin.com/in/ayub-mox/" target="_blank" rel="noopener noreferrer">💼 Linkedin</a>  
 
-- Icons by [Twemoji](https://twemoji.twitter.com/)
-- Font: [Inter](https://fonts.google.com/specimen/Inter)
-- Hosted via [GitHub Pages](https://pages.github.com)
+<ul>
+  <li>Icons by <a href="https://twemoji.twitter.com/" target="_blank" rel="noopener noreferrer">Twemoji</a></li>
+  <li>Font: <a href="https://fonts.google.com/specimen/Inter" target="_blank" rel="noopener noreferrer">Inter</a></li>
+  <li>Hosted via <a href="https://pages.github.com" target="_blank" rel="noopener noreferrer">GitHub Pages</a></li>
+</ul>
 
 ---
 
